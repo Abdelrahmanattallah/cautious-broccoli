@@ -1,0 +1,40 @@
+/* start roboto font */
+@font-face {
+font-family: 'Roboto Black';
+src: url('fonts/Roboto-Black.eot');
+src: url('fonts/Roboto-Black.eot?#iefix') format('embedded-opentype'),
+  url('fonts/Roboto-Black.woff2') format('woff2'),
+  url('fonts/Roboto-Black.woff') format('woff'),
+  url('fonts/Roboto-Black.ttf')  format('truetype'),
+  url('fonts/Roboto-Black.svg#Roboto Black') format('svg');
+}
+/* end roboto font */
+/* start Rajdhani font */
+@font-face {
+font-family: 'Rajdhani';
+  src: url('fonts/Rajdhani-Bold.eot');
+  src: url('fonts/Rajdhani-Bold.eot?#iefix') format('embedded-opentype'),
+  url('fonts/Rajdhani-Bold.woff2') format('woff2'),
+  url('fonts/Rajdhani-Bold.woff') format('woff'),
+  url('fonts/Rajdhani-Bold.ttf')  format('truetype'),
+  url('fonts/Rajdhani-Bold.svg#Rajdhani') format('svg');
+  }
+/* end Rajdhani font */
+a,
+li,
+span,
+p { 
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 { 
+  font-family: 'Rajdhani', sans-serif;
+  margin: 0;
+  padding: 0;
+}
